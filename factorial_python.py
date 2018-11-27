@@ -17,4 +17,7 @@ else:
    for i in range(1,num + 1):
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
+
+#this line has been added by using vi editor on local repository, for the 
+#demonstration purpose, to train git and github. 
 # this line has been added for demonstration purpose. i.e to learch git and github.
