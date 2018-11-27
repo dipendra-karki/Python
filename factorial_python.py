@@ -20,5 +20,6 @@ else:
 
 #this line has been added by using vi editor on local repository, for the 
 #demonstration purpose, to train git and github.
-#this is for ssh connection demonstration...
+#this is for ssh connection demonstration..
+#ssh communication test after password setup.
 # this line has been added for demonstration purpose. i.e to learch git and github.
